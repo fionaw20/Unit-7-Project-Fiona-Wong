@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(128, 82, 62);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+  font-family: 'Balsamiq Sans', sans-serif;
+}
+
+#myCanvas{
+
+}
+
+h1{
+  font-size: 65px;
+}
+
+h2{
+  margin: 50px;
+  font-size: 25px;
+  color:#ffffff
+}
